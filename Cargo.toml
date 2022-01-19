@@ -1,0 +1,9 @@
+[package]
+authors = ["inkhare <iapricot@foxmail.com>"]
+description = "language module for neno."
+edition = "2018"
+keywords = ["neno", "compiler"]
+license = "MIT/Apache-2.0"
+name = "boreas"
+readme = "README.md"
+version = "0.0.1"
